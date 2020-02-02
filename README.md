@@ -2,17 +2,17 @@
 ____
 Create a web page, strictly according to:
 
-PSD:
+__PSD__:
 
-![Desktop PSD](./Web-academy-layout/source pictures/THEYALOW Desktop.psd)
+![Desktop PSD](./source pictures/THEYALOW Desktop.psd)
 
-![Mobile PSD](../Web-academy-layout/source pictures/THEYALOW mobile.psd)
+![Mobile PSD](./source pictures/THEYALOW mobile.psd)
 
-JPG:
+__JPG__:
 
-![Desktop JPG](../Web-academy-layout/source pictures/THEYALOW Desktop.jpg)
+![Desktop JPG](./source pictures/THEYALOW Desktop.jpg)
 
-![Desktop JPG](..master/Web-academy-layout/source pictures/THEYALOW Desktop.jpg)
+![Desktop JPG](./source pictures/THEYALOW Desktop.jpg)
 
 The reference point here is a successful per-pixel comparison via Pixel Perfect extension.
 ## Terms of Reference
