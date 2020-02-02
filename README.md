@@ -3,7 +3,6 @@ ____
 Create a web page, strictly according to:
 
 PSD:
-![Desktop PSD](./Web-academy-layout/source pictures/THEYALOW Desktop.psd)
 
 ![Desktop PSD](./Web-academy-layout/source pictures/THEYALOW Desktop.psd)
 
