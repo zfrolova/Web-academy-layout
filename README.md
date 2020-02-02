@@ -3,12 +3,14 @@ ____
 Create a web page, strictly according to:
 
 PSD:
-![Desktop PSD](..master/Web-academy-layout/source pictures/THEYALOW Desktop.psd)
 
-![Mobile PSD](..master/Web-academy-layout/source pictures/THEYALOW mobile.psd)
+![Desktop PSD](../Web-academy-layout/source pictures/THEYALOW Desktop.psd)
 
-JPG
-![Desktop JPG](..master/Web-academy-layout/source pictures/THEYALOW Desktop.jpg)
+![Mobile PSD](../Web-academy-layout/source pictures/THEYALOW mobile.psd)
+
+JPG:
+
+![Desktop JPG](../Web-academy-layout/source pictures/THEYALOW Desktop.jpg)
 
 ![Desktop JPG](..master/Web-academy-layout/source pictures/THEYALOW Desktop.jpg)
 
