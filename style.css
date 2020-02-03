@@ -1,12 +1,9 @@
 body {
     height: 100%;
 }
-header {
-    height: 150px;
-}
-
 .header__title {
     margin: 0 auto;
     text-align: center;
     color: rgb(24, 22, 22);
+    font-size: 40px;
 }
